@@ -48,14 +48,12 @@ sites:
       - 200
       - 201
       - 404
-
-- name: R Ka
+  - name: R Ka
     url: $R_K
     expectedStatusCodes:
       - 200
       - 201
       - 404
-
 
 assignees: # Users to assign downtime issues (optional)
   - 8ear
