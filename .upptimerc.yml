@@ -1,27 +1,72 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: 8ear # Your GitHub username
 repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+#  - name: Google
+#    url: https://www.google.com
+#  - name: Wikipedia
+#    url: https://en.wikipedia.org
+#  - name: Hacker News
+#    url: https://news.ycombinator.com
+  - name: Mailsystem Ext
+    url: $MAIL_EXT
+  - name: Mailsystem Int
+    url: $MAIL_INT
+  - name: WP Sweetdeco
+    url: $WP_SWEETDECO
+  - name: WP Praxis
+    url: $WP_PRAXIS
+  - name: WP Matomo
+    url: $WP_MATOMO
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: WP Admin Overview
+    url: $WP_OVERVIEW
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: WP Hochzeit
+    url: $WP_HOCHZEIT
+  - name: WP Multisite
+    url: $WP_MULTISITE
+  - name: Speedtest
+    url: $SPEEDTEST
+  - name: R Ge
+    url: $R_G
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+  - name: R Bg
+    url: $R_B
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+
+- name: R Ka
+    url: $R_K
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 404
+
+
+assignees: # Users to assign downtime issues (optional)
+  - 8ear
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: status.haeckl-it.de
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Service Status Page (Upptime)
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/koj-co/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/koj-co/upptime)
   navbar:
