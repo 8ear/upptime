@@ -22,19 +22,19 @@
     "url": "$MAIL_INT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mailsystem-int",
-    "status": "down",
-    "uptime": "96.34%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "96.34%",
-    "uptimeMonth": "96.34%",
-    "uptimeYear": "96.34%",
-    "time": 7952,
-    "timeDay": 14195,
-    "timeWeek": 7952,
-    "timeMonth": 7952,
-    "timeYear": 7952,
+    "status": "up",
+    "uptime": "94.89%",
+    "uptimeDay": "97.67%",
+    "uptimeWeek": "94.89%",
+    "uptimeMonth": "94.89%",
+    "uptimeYear": "94.89%",
+    "time": 6723,
+    "timeDay": 1899,
+    "timeWeek": 6723,
+    "timeMonth": 6723,
+    "timeYear": 6723,
     "dailyMinutesDown": {
-      "2020-12-16": 1,
+      "2020-12-16": 34,
       "2020-12-15": 77
     }
   },
@@ -109,7 +109,7 @@
     "timeMonth": 460,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2020-12-16": 126,
+      "2020-12-16": 159,
       "2020-12-15": 1440,
       "2020-12-14": 557
     }
@@ -131,7 +131,7 @@
     "timeMonth": 514,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2020-12-16": 126,
+      "2020-12-16": 159,
       "2020-12-15": 1440,
       "2020-12-14": 557
     }
@@ -189,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-16": 126,
+      "2020-12-16": 159,
       "2020-12-15": 1440,
       "2020-12-14": 556
     }
@@ -211,7 +211,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-16": 126,
+      "2020-12-16": 159,
       "2020-12-15": 1440,
       "2020-12-14": 556
     }
@@ -233,7 +233,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-16": 126,
+      "2020-12-16": 159,
       "2020-12-15": 1440,
       "2020-12-14": 556
     }
