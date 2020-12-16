@@ -22,18 +22,19 @@
     "url": "$MAIL_INT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mailsystem-int",
-    "status": "up",
-    "uptime": "96.17%",
-    "uptimeDay": "94.69%",
-    "uptimeWeek": "96.17%",
-    "uptimeMonth": "96.17%",
-    "uptimeYear": "96.17%",
+    "status": "down",
+    "uptime": "96.34%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "96.34%",
+    "uptimeMonth": "96.34%",
+    "uptimeYear": "96.34%",
     "time": 7952,
     "timeDay": 14195,
     "timeWeek": 7952,
     "timeMonth": 7952,
     "timeYear": 7952,
     "dailyMinutesDown": {
+      "2020-12-16": 1,
       "2020-12-15": 77
     }
   },
@@ -108,7 +109,7 @@
     "timeMonth": 460,
     "timeYear": 460,
     "dailyMinutesDown": {
-      "2020-12-16": 2,
+      "2020-12-16": 126,
       "2020-12-15": 1440,
       "2020-12-14": 557
     }
@@ -130,7 +131,7 @@
     "timeMonth": 514,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2020-12-16": 2,
+      "2020-12-16": 126,
       "2020-12-15": 1440,
       "2020-12-14": 557
     }
@@ -177,18 +178,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "r-ge",
     "status": "down",
-    "uptime": "0.03%",
+    "uptime": "0.02%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-16": 2,
+      "2020-12-16": 126,
       "2020-12-15": 1440,
       "2020-12-14": 556
     }
@@ -210,7 +211,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-16": 2,
+      "2020-12-16": 126,
       "2020-12-15": 1440,
       "2020-12-14": 556
     }
@@ -232,7 +233,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-16": 2,
+      "2020-12-16": 126,
       "2020-12-15": 1440,
       "2020-12-14": 556
     }
