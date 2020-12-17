@@ -22,18 +22,19 @@
     "url": "$MAIL_INT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mailsystem-int",
-    "status": "up",
-    "uptime": "96.80%",
-    "uptimeDay": "97.67%",
-    "uptimeWeek": "96.80%",
-    "uptimeMonth": "96.80%",
-    "uptimeYear": "96.80%",
+    "status": "down",
+    "uptime": "96.87%",
+    "uptimeDay": "97.59%",
+    "uptimeWeek": "96.87%",
+    "uptimeMonth": "96.87%",
+    "uptimeYear": "96.87%",
     "time": 5880,
     "timeDay": 1736,
     "timeWeek": 5880,
     "timeMonth": 5880,
     "timeYear": 5880,
     "dailyMinutesDown": {
+      "2020-12-17": 1,
       "2020-12-16": 34,
       "2020-12-15": 77
     }
@@ -109,7 +110,7 @@
     "timeMonth": 483,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2020-12-17": 4,
+      "2020-12-17": 124,
       "2020-12-16": 1440,
       "2020-12-15": 1440,
       "2020-12-14": 557
@@ -132,7 +133,7 @@
     "timeMonth": 524,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2020-12-17": 4,
+      "2020-12-17": 124,
       "2020-12-16": 1440,
       "2020-12-15": 1440,
       "2020-12-14": 557
@@ -180,18 +181,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "r-ge",
     "status": "down",
-    "uptime": "0.02%",
+    "uptime": "0.01%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-17": 4,
+      "2020-12-17": 124,
       "2020-12-16": 1440,
       "2020-12-15": 1440,
       "2020-12-14": 556
@@ -214,7 +215,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-17": 4,
+      "2020-12-17": 124,
       "2020-12-16": 1440,
       "2020-12-15": 1440,
       "2020-12-14": 556
@@ -237,7 +238,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2020-12-17": 4,
+      "2020-12-17": 124,
       "2020-12-16": 1440,
       "2020-12-15": 1440,
       "2020-12-14": 556
