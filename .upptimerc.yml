@@ -28,24 +28,12 @@ sites:
     url: $WP_HOCHZEIT
   - name: Speedtest
     url: $SPEEDTEST
-  - name: R Ge
+  - name: R G
     url: $R_G
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
-  - name: R Bg
+  - name: R B
     url: $R_B
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
-  - name: R Ka
+  - name: R K
     url: $R_K
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 404
 
 assignees: # Users to assign downtime issues (optional)
   - 8ear
