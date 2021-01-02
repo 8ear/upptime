@@ -10,9 +10,9 @@ sites:
 #    url: https://en.wikipedia.org
 #  - name: Hacker News
 #    url: https://news.ycombinator.com
-  - name: Mailsystem Ext
+  - name: Mailsystem External
     url: $MAIL_EXT
-  - name: Mailsystem Int
+  - name: Mailsystem Internal
     url: $MAIL_INT
   - name: WP Sweetdeco
     url: $WP_SWEETDECO
@@ -26,8 +26,6 @@ sites:
       - 404
   - name: WP Hochzeit
     url: $WP_HOCHZEIT
-  - name: WP Multisite
-    url: $WP_MULTISITE
   - name: Speedtest
     url: $SPEEDTEST
   - name: R Ge
