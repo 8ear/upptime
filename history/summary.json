@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mailsystem-external",
     "status": "up",
-    "uptime": "98.74%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.74%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.74%",
-    "time": 676,
-    "timeDay": 649,
-    "timeWeek": 676,
-    "timeMonth": 676,
-    "timeYear": 676,
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
+    "time": 674,
+    "timeDay": 664,
+    "timeWeek": 674,
+    "timeMonth": 674,
+    "timeYear": 674,
     "dailyMinutesDown": {
       "2021-01-02": 30
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mailsystem-internal",
     "status": "up",
-    "uptime": "90.19%",
+    "uptime": "93.42%",
     "uptimeDay": "87.52%",
-    "uptimeWeek": "90.19%",
-    "uptimeMonth": "90.19%",
-    "uptimeYear": "90.19%",
-    "time": 2509,
+    "uptimeWeek": "93.42%",
+    "uptimeMonth": "93.42%",
+    "uptimeYear": "93.42%",
+    "time": 2422,
     "timeDay": 4847,
-    "timeWeek": 2509,
-    "timeMonth": 2509,
-    "timeYear": 2509,
+    "timeWeek": 2422,
+    "timeMonth": 2422,
+    "timeYear": 2422,
     "dailyMinutesDown": {
       "2021-01-04": 180,
       "2021-01-02": 51
@@ -51,11 +51,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 688,
-    "timeDay": 723,
-    "timeWeek": 684,
-    "timeMonth": 688,
-    "timeYear": 688,
+    "time": 689,
+    "timeDay": 699,
+    "timeWeek": 686,
+    "timeMonth": 689,
+    "timeYear": 689,
     "dailyMinutesDown": {
       "2021-01-02": 30
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 631,
-    "timeDay": 614,
-    "timeWeek": 625,
-    "timeMonth": 631,
-    "timeYear": 631,
+    "time": 630,
+    "timeDay": 593,
+    "timeWeek": 615,
+    "timeMonth": 630,
+    "timeYear": 630,
     "dailyMinutesDown": {
       "2021-01-02": 30
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 513,
-    "timeDay": 549,
-    "timeWeek": 509,
-    "timeMonth": 513,
-    "timeYear": 513,
+    "time": 514,
+    "timeDay": 553,
+    "timeWeek": 520,
+    "timeMonth": 514,
+    "timeYear": 514,
     "dailyMinutesDown": {}
   },
   {
@@ -104,16 +104,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wp-hochzeit",
     "status": "up",
-    "uptime": "83.93%",
+    "uptime": "84.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
-    "uptimeMonth": "83.93%",
-    "uptimeYear": "83.93%",
-    "time": 740,
-    "timeDay": 793,
-    "timeWeek": 746,
-    "timeMonth": 740,
-    "timeYear": 740,
+    "uptimeMonth": "84.53%",
+    "uptimeYear": "84.53%",
+    "time": 744,
+    "timeDay": 855,
+    "timeWeek": 753,
+    "timeMonth": 744,
+    "timeYear": 744,
     "dailyMinutesDown": {
       "2021-01-02": 30,
       "2020-12-17": 1299,
@@ -134,8 +134,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 267,
-    "timeDay": 360,
-    "timeWeek": 253,
+    "timeDay": 271,
+    "timeWeek": 258,
     "timeMonth": 267,
     "timeYear": 267,
     "dailyMinutesDown": {}
@@ -157,7 +157,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-04": 299,
+      "2021-01-05": 13,
+      "2021-01-04": 1440,
       "2021-01-03": 1440,
       "2021-01-02": 478
     }
@@ -179,7 +180,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-04": 299,
+      "2021-01-05": 13,
+      "2021-01-04": 1440,
       "2021-01-03": 1440,
       "2021-01-02": 478
     }
@@ -201,7 +203,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-01-04": 299,
+      "2021-01-05": 13,
+      "2021-01-04": 1440,
       "2021-01-03": 1440,
       "2021-01-02": 478
     }
