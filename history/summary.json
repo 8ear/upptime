@@ -4,9 +4,9 @@
     "url": "$MAIL_EXT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mailsystem-external",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -16,6 +16,7 @@
     "timeMonth": 764,
     "timeYear": 739,
     "dailyMinutesDown": {
+      "2021-02-10": 0,
       "2021-01-02": 30
     }
   },
@@ -24,19 +25,19 @@
     "url": "$MAIL_INT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mailsystem-internal",
-    "status": "up",
-    "uptime": "89.96%",
-    "uptimeDay": "93.92%",
-    "uptimeWeek": "93.99%",
-    "uptimeMonth": "88.91%",
-    "uptimeYear": "89.96%",
+    "status": "down",
+    "uptime": "90.11%",
+    "uptimeDay": "94.42%",
+    "uptimeWeek": "94.32%",
+    "uptimeMonth": "88.93%",
+    "uptimeYear": "90.11%",
     "time": 5774,
     "timeDay": 7509,
-    "timeWeek": 6441,
+    "timeWeek": 6655,
     "timeMonth": 6111,
     "timeYear": 5774,
     "dailyMinutesDown": {
-      "2021-02-10": 88,
+      "2021-02-10": 80,
       "2021-02-09": 65,
       "2021-02-08": 92,
       "2021-02-07": 62,
@@ -74,9 +75,9 @@
     "url": "$WP_SWEETDECO",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wp-sweetdeco",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.91%",
@@ -86,6 +87,7 @@
     "timeMonth": 693,
     "timeYear": 693,
     "dailyMinutesDown": {
+      "2021-02-10": 0,
       "2021-01-16": 43,
       "2021-01-02": 30
     }
@@ -95,9 +97,9 @@
     "url": "$WP_PRAXIS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wp-praxis",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -107,6 +109,7 @@
     "timeMonth": 683,
     "timeYear": 659,
     "dailyMinutesDown": {
+      "2021-02-10": 0,
       "2021-01-02": 30
     }
   },
@@ -115,9 +118,9 @@
     "url": "$WP_MATOMO",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wp-matomo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -126,25 +129,28 @@
     "timeWeek": 520,
     "timeMonth": 512,
     "timeYear": 512,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-10": 0
+    }
   },
   {
     "name": "WP Hochzeit",
     "url": "$WP_HOCHZEIT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "wp-hochzeit",
-    "status": "up",
-    "uptime": "94.25%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "94.31%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.25%",
+    "uptimeYear": "94.31%",
     "time": 783,
     "timeDay": 831,
     "timeWeek": 811,
     "timeMonth": 814,
     "timeYear": 783,
     "dailyMinutesDown": {
+      "2021-02-10": 0,
       "2021-01-02": 30,
       "2020-12-17": 1299,
       "2020-12-16": 1440,
@@ -157,9 +163,9 @@
     "url": "$SPEEDTEST",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "speedtest",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -168,7 +174,9 @@
     "timeWeek": 316,
     "timeMonth": 334,
     "timeYear": 299,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-10": 0
+    }
   },
   {
     "name": "R G",
@@ -187,7 +195,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-10": 300,
+      "2021-02-10": 1107,
       "2021-02-09": 1440,
       "2021-02-08": 1440,
       "2021-02-07": 1440,
@@ -246,7 +254,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-10": 300,
+      "2021-02-10": 1107,
       "2021-02-09": 1440,
       "2021-02-08": 1440,
       "2021-02-07": 1440,
@@ -305,7 +313,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-10": 300,
+      "2021-02-10": 1107,
       "2021-02-09": 1440,
       "2021-02-08": 1440,
       "2021-02-07": 1440,
