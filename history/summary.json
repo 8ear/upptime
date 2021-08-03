@@ -6,8 +6,8 @@
     "slug": "mailsystem-external",
     "status": "up",
     "uptime": "92.91%",
-    "uptimeDay": "82.81%",
-    "uptimeWeek": "54.87%",
+    "uptimeDay": "93.30%",
+    "uptimeWeek": "56.37%",
     "uptimeMonth": "83.51%",
     "uptimeYear": "92.91%",
     "time": 941,
@@ -54,18 +54,19 @@
     "url": "$MAIL_INT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mailsystem-internal",
-    "status": "up",
-    "uptime": "97.27%",
-    "uptimeDay": "95.72%",
-    "uptimeWeek": "94.44%",
+    "status": "down",
+    "uptime": "97.29%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "94.43%",
     "uptimeMonth": "94.93%",
-    "uptimeYear": "97.27%",
+    "uptimeYear": "97.29%",
     "time": 5010,
-    "timeDay": 7086,
+    "timeDay": 9055,
     "timeWeek": 5605,
     "timeMonth": 4970,
     "timeYear": 5010,
     "dailyMinutesDown": {
+      "2021-08-03": 1,
       "2021-08-02": 73,
       "2021-08-01": 65,
       "2021-07-31": 123,
@@ -118,8 +119,7 @@
       "2021-02-13": 40,
       "2021-02-12": 87,
       "2021-02-11": 63,
-      "2021-02-10": 102,
-      "2021-02-09": 65
+      "2021-02-10": 102
     }
   },
   {
@@ -255,7 +255,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-03": 11,
+      "2021-08-03": 162,
       "2021-08-02": 1440,
       "2021-08-01": 1440,
       "2021-07-31": 1440,
@@ -488,7 +488,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-03": 11,
+      "2021-08-03": 162,
       "2021-08-02": 1440,
       "2021-08-01": 1440,
       "2021-07-31": 1440,
@@ -721,7 +721,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-03": 11,
+      "2021-08-03": 162,
       "2021-08-02": 1440,
       "2021-08-01": 1440,
       "2021-07-31": 1440,
