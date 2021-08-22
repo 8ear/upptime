@@ -60,19 +60,19 @@
     "url": "$MAIL_INT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mailsystem-internal",
-    "status": "up",
-    "uptime": "98.04%",
-    "uptimeDay": "96.25%",
+    "status": "down",
+    "uptime": "98.05%",
+    "uptimeDay": "96.21%",
     "uptimeWeek": "95.35%",
     "uptimeMonth": "96.09%",
-    "uptimeYear": "98.04%",
-    "time": 5244,
-    "timeDay": 7018,
-    "timeWeek": 5488,
-    "timeMonth": 6019,
-    "timeYear": 5244,
+    "uptimeYear": "98.05%",
+    "time": 5266,
+    "timeDay": 8345,
+    "timeWeek": 5794,
+    "timeMonth": 6098,
+    "timeYear": 5266,
     "dailyMinutesDown": {
-      "2021-08-22": 39,
+      "2021-08-22": 40,
       "2021-08-21": 115,
       "2021-08-20": 33,
       "2021-08-19": 92,
@@ -123,7 +123,7 @@
       "2021-04-27": 31,
       "2021-04-26": 20,
       "2021-04-23": 32,
-      "2021-04-22": 84
+      "2021-04-22": 44
     }
   },
   {
@@ -259,7 +259,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-22": 788,
+      "2021-08-22": 881,
       "2021-08-21": 1440,
       "2021-08-20": 1440,
       "2021-08-19": 1440,
@@ -511,7 +511,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-22": 788,
+      "2021-08-22": 881,
       "2021-08-21": 1440,
       "2021-08-20": 1440,
       "2021-08-19": 1440,
@@ -763,7 +763,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-22": 788,
+      "2021-08-22": 881,
       "2021-08-21": 1440,
       "2021-08-20": 1440,
       "2021-08-19": 1440,
