@@ -29,11 +29,13 @@ sites:
   - name: Speedtest
     url: $SPEEDTEST
   - name: R G
-    url: $R_G
+    url: $R_G_URL
   - name: R B
-    url: $R_B
+    url: $R_B_URL
   - name: R K
-    url: $R_K
+    url: $R_K_URL
+  - name: R A
+    url: $R_A_URL
 
 assignees: # Users to assign downtime issues (optional)
   - 8ear
