@@ -1,7 +1,7 @@
 url: $R_K_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-01-10T11:40:30.659Z
+status: up
+code: 200
+responseTime: 692
+lastUpdated: 2024-01-10T11:48:24.118Z
 startTime: 2021-01-02T16:02:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
