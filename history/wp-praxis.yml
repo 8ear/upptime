@@ -1,7 +1,7 @@
 url: $WP_PRAXIS
-status: up
-code: 200
-responseTime: 988
-lastUpdated: 2024-10-12T15:58:52.227Z
+status: down
+code: 404
+responseTime: 539
+lastUpdated: 2024-10-12T20:23:04.116Z
 startTime: 2020-12-14T14:43:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
