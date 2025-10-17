@@ -1,7 +1,7 @@
 url: $MAIL_INT
-status: up
-code: 200
-responseTime: 1923
-lastUpdated: 2025-10-17T23:08:12.601Z
+status: down
+code: 502
+responseTime: 19323
+lastUpdated: 2025-10-17T23:49:51.513Z
 startTime: 2021-01-02T13:50:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
