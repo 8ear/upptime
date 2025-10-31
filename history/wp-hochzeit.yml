@@ -1,7 +1,7 @@
 url: $WP_HOCHZEIT
-status: up
-code: 200
-responseTime: 634
-lastUpdated: 2025-10-30T23:08:25.041Z
+status: down
+code: 404
+responseTime: 587
+lastUpdated: 2025-10-31T09:56:56.747Z
 startTime: 2020-12-14T14:43:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
