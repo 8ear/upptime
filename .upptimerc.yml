@@ -29,16 +29,16 @@ sites:
   - name: Speedtest
     url: $SPEEDTEST
   - name: R G
-    url: $R_G_URL
+    url: https://$R_G_URL:6442
     __dangerous__insecure: true
   - name: R B
-    url: $R_B_URL
+    url: https://$R_B_URL:6442
     __dangerous__insecure: true
   - name: R K
-    url: $R_K_URL
+    url: https://$R_K_URL:6442
     __dangerous__insecure: true
   - name: R A
-    url: $R_A_URL
+    url: https://$R_A_URL:6442
     __dangerous__insecure: true
 
 assignees: # Users to assign downtime issues (optional)
