@@ -1,7 +1,7 @@
 url: $MAIL_EXT
-status: down
-code: 404
-responseTime: 524
-lastUpdated: 2026-01-13T07:41:08.629Z
+status: up
+code: 200
+responseTime: 1336
+lastUpdated: 2026-01-13T07:52:56.670Z
 startTime: 2021-01-02T13:50:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
