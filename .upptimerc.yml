@@ -28,12 +28,9 @@ sites:
     url: $WP_HOCHZEIT
   - name: Speedtest
     url: $SPEEDTEST
-  - name: R G
-    url: https://$R_G_URL:6442
-    __dangerous__insecure: true
   - name: R B
-    url: https://$R_B_URL:6442
-    __dangerous__insecure: true
+    url: https://$R_G_URL:6442
+    #__dangerous__insecure: true
   - name: R K
     url: https://$R_K_URL:6442
     __dangerous__insecure: true
